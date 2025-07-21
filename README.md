@@ -14,6 +14,5 @@ Open an issue or submit a pull request to help make this repository even better!
 🌸 Technologies Used 🌸
 R 🦋
 ggplot2 📊
-dplyr 🌸
-caret 🌟
- 
+dplyr 
+caret 
