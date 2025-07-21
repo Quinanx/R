@@ -12,7 +12,7 @@ Your feedback and contributions are always welcome! 💕🌼
 Open an issue or submit a pull request to help make this repository even better! 🌸
 
 🌸 Technologies Used 🌸
-R 🦋
-ggplot2 📊
+R 
+ggplot2 
 dplyr 
 caret 
